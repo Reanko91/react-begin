@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.4cc6f15a.css","mappings":"AAAA,QAIE,UAAW,CAFX,UAAW,CACX,gBAAiB,CAFjB,SAIF,CAEA,GACE,iBACF,CAEA,EACE,oBACF","sources":["App.css"],"sourcesContent":["#poster {\n  width: 30%;\n  height: 50%;\n  object-fit: cover;\n  float: left;\n}\n\nh1 {\n  text-align: center;\n}\n\np {\n  display: inline-block;\n}\n"],"names":[],"sourceRoot":""}
